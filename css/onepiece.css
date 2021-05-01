@@ -1,0 +1,58 @@
+body{      
+background-image: url("../img/op.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;  
+padding: 30px;
+width: 100%;
+}
+
+.container {
+padding-top: 15px;
+width: 90%;
+height: 80%;
+padding-bottom: 30px;
+background-color: rgba(63, 65, 191, 0.9);     
+border-radius: 8px;  
+
+}
+
+.container h1{
+text-align: center;
+color: purple;
+padding-bottom: 10px;
+} 
+
+.container p {
+padding-top: 10px;
+text-align: center;
+font-size: 1.1em;
+color: white;
+}
+
+.container .btn {
+margin: 5px;
+background: purple;
+}
+.container img {
+width: 80%;
+height: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+footer {
+padding-top: 10px;
+text-align: center;
+color: white;
+}
+
+footer .container a {
+text-decoration: none;
+color: black;
+}
+
+footer .container a:hover {
+color: purple;
+}
