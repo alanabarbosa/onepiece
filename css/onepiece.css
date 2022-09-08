@@ -30,6 +30,7 @@ p {
 #buttons {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     padding: 20px;
 }
 
